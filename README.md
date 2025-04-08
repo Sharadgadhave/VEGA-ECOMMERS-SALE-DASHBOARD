@@ -69,4 +69,6 @@ Advanced forecasting using time series models.
 
 Incorporate marketing spend and ROI analysis.
 
-# 🙌 Author Created by: Sharad Gadhave Role: Power BI Developer | Data Analyst Contact: https://www.linkedin.com/in/sharadgadhave | sharadgadhave786@gmail.com
+## 🙌 Author Created by: Sharad Gadhave 
+## Role: Power BI Developer | Data Analyst 
+## Contact: https://www.linkedin.com/in/sharadgadhave | sharadgadhave786@gmail.com | 8698092138
